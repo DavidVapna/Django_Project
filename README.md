@@ -1,7 +1,7 @@
 # Django_Project
 This is a Django project created through the Django tutorial.
 
-To get the server started run in cmd: 
+To get the server started run in cmd from django-project\mysite directory:
 python manage.py runserver
 
 To open the polls app go to the following url:
